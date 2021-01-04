@@ -1,0 +1,6 @@
+git init
+git add filename
+git remote add https:// git repository address
+git commit
+git push origin master 
+	master is a branch 
