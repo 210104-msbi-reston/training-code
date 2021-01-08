@@ -1,0 +1,19 @@
+# CLI Commands used to make this project
+- To make StoreApp folder 
+    - `mkdir StoreApp`
+- Create a new Solution named StoreApp
+    - `cd StoreApp` *To navigate to StoreApp folder*
+    - `dotnet new sln -n StoreApp` *This create a new StoreApp.sln file*
+- Create 4 projects in the StoreApp solution as:
+    - `dotnet new console -o StoreUI`
+    - `dotnet new classlib -o StoreBL`
+    - `dotnet new classlib -o StoreDB`
+    - `dotnet new xunit -o StoreTest`
+- Add all these projects to StoreApp.sln 
+    - `dotnet sln StoreApp.sln add StoreUI/StoreUI.csproj`
+    - `dotnet sln StoreApp.sln add StoreBL/StoreBL.csproj`
+    - `dotnet sln StoreApp.sln add StoreDB/StoreDB.csproj`
+    - `dotnet sln StoreApp.sln add StoreTest/StoreTest.csproj`
+- Add references:
+    - `dotnet add StoreBL/StoreBL.csproj reference StoreDB/StoreDB.csproj`---  *adds reference of StoreDb.csproj to StoreBL.csproj*
+    - `dotnet add StoreUI/StoreUI.csproj reference StoreBL/StoreBL.csproj` --- *adds reference of StoreBL.csproj to StoreUI.csproj*
