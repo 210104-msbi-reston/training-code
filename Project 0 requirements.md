@@ -31,7 +31,7 @@
 - Should have an ER Diagram
 - Code should have xml documentation
 
-## Tech Stack:
+## Tech Stack
 - C#
 - SQL Server DB
 - EF Core

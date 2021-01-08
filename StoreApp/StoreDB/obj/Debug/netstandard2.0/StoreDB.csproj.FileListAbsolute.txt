@@ -1,0 +1,9 @@
+C:\Revature\210104-reston-msbi\training-code\StoreApp\StoreDB\obj\Debug\netstandard2.0\StoreDB.csprojAssemblyReference.cache
+C:\Revature\210104-reston-msbi\training-code\StoreApp\StoreDB\obj\Debug\netstandard2.0\StoreDB.AssemblyInfoInputs.cache
+C:\Revature\210104-reston-msbi\training-code\StoreApp\StoreDB\obj\Debug\netstandard2.0\StoreDB.AssemblyInfo.cs
+C:\Revature\210104-reston-msbi\training-code\StoreApp\StoreDB\obj\Debug\netstandard2.0\StoreDB.csproj.CoreCompileInputs.cache
+C:\Revature\210104-reston-msbi\training-code\StoreApp\StoreDB\bin\Debug\netstandard2.0\StoreDB.deps.json
+C:\Revature\210104-reston-msbi\training-code\StoreApp\StoreDB\bin\Debug\netstandard2.0\StoreDB.dll
+C:\Revature\210104-reston-msbi\training-code\StoreApp\StoreDB\bin\Debug\netstandard2.0\StoreDB.pdb
+C:\Revature\210104-reston-msbi\training-code\StoreApp\StoreDB\obj\Debug\netstandard2.0\StoreDB.dll
+C:\Revature\210104-reston-msbi\training-code\StoreApp\StoreDB\obj\Debug\netstandard2.0\StoreDB.pdb
