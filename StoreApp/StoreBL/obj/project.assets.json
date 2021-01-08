@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "StoreDB/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/StoreDB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StoreDB.dll": {}
+        }
       }
     }
   },
@@ -172,11 +182,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "StoreDB/1.0.0": {
+      "type": "project",
+      "path": "../StoreDB/StoreDB.csproj",
+      "msbuildProject": "../StoreDB/StoreDB.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "StoreDB >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -204,7 +220,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Revature\\210104-reston-msbi\\training-code\\StoreApp\\StoreDB\\StoreDB.csproj": {
+              "projectPath": "C:\\Revature\\210104-reston-msbi\\training-code\\StoreApp\\StoreDB\\StoreDB.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
