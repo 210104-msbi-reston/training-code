@@ -23,8 +23,8 @@
 ## Additional requirements:
 - Exception Handling
 - Input validation
-- Logging
-- At least 10 unit tests
+- ~~Logging~~
+- ~~At least 10 unit tests~~
 - Data should be persisted, (no data should be hard coded)
 - You should use SQL Server DB
 - DB structure should be 3NF
@@ -35,8 +35,8 @@
 - C#
 - SQL Server DB
 - EF Core
-- Xunit
-- Serilog or Nlog
+- ~~Xunit~~
+- ~~Serilog or Nlog~~
 
 
 
