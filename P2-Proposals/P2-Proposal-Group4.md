@@ -38,9 +38,9 @@ Our project will allow users to book a room in a hotel in the Washington D.C. ar
 ## Tech Stack
 Microsoft Business Intelligence (MSBI)
 * Microsoft SQL Server
-* SQL Server Integration Service
-* SQL Server Analysis Service
-* SQL Server Reporting Service
+* SQL Server Integration Service (SSIS)
+* SQL Server Analysis Service (SSAS)
+* SQL Server Reporting Service (SSRS)
 
 
 ## Team 4
