@@ -2,18 +2,23 @@
 
 ## Overview
 
-#### **Problem:** Pandex is a nationwide food delivery service used by thousands of customers every day. Since the manifestation of global issues stemming from the COVID-19 Pandemic, more and more customers rely on food delivery services like Pandex to stay safe in isolation while enjoying their favorite foods. Business has increased as more people stay home, and we should remain as efficient and competitive as possible in this growing industry.
+#### **Problem:**
+
+Pandex is a nationwide food delivery service used by thousands of customers every day. Since the manifestation of global issues stemming from the COVID-19 Pandemic, more and more customers rely on food delivery services like Pandex to stay safe in isolation while enjoying their favorite foods. Business has increased as more people stay home, and we should remain as efficient and competitive as possible in this growing industry.
+
 Pandex does not currently have a singular database from which to track and analyze data, through which sound business decisions can be made regarding the future of the company.
 
-#### **Solution:** We plan to create a database to consolidate and track business-related data for analysis. This data will be aggregated into a data warehouse for analysis. We will analyze this data, noting any positive trends or avenues for improvement, and report our findings to the Pandex board for scrutiny.
+#### **Solution:**
+
+We plan to create a database to consolidate and track business-related data for analysis. This data will be aggregated into a data warehouse for analysis. We will analyze this data, noting any positive trends or avenues for improvement, and report our findings to the Pandex board for scrutiny.
 
 ## Execution Strategy
 
-1.     Create a strong database system using SQL,
-2.     Populate the database with current and past data using SSIS,
-3.     Transfer the database to a data warehouse in,
-4.     Using SSAS, analyze each aspect of our company that has been recorded, looking for possible trends,
-5.     Report our findings to the Pandex board using SSRS.
+1. Create a strong database system using SQL,
+2. Populate the database with current and past data using SSIS,
+3. Transfer the database to a data warehouse in,
+4. Using SSAS, analyze each aspect of our company that has been recorded, looking for possible trends,
+5. Report our findings to the Pandex board using SSRS.
 
 ## Project Deliverables
 
@@ -48,13 +53,13 @@ We expect our proposed solution to provide the following benefits:
 
 ### Financial Benefits
 
-·    Increased sales: Areas of focus should allow for new ways to approach existing issues and drive sales volume
-·    Reduced operational costs: Cost/benefit analysis should improve driver routing and allocation, as well as trim the fat from expensive client relationships
+1. Increased sales: Areas of focus should allow for new ways to approach existing issues and drive sales volume
+2. Reduced operational costs: Cost/benefit analysis should improve driver routing and allocation, as well as trim the fat from expensive client relationships
 
 ### Technical Benefits
 
-·    Data management: strong structure for organizational data recording/processing
-·    Data analysis: data warehouse structure for analyzing data
+1. Data management: strong structure for organizational data recording/processing
+2. Data analysis: data warehouse structure for analyzing data
 
 ## Conclusion
 
@@ -62,8 +67,12 @@ We look forward to working with Pandex board members and helping bring the compa
 If there are any issues, please contact our team at your convenience.
 
 Thank you for your consideration,
+
 Jordan Roberts
+
 Destin Trang
+
 Zachary Anderson
+
 Ben McGregor
 
