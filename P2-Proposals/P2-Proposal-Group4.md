@@ -44,9 +44,9 @@ Microsoft Business Intelligence (MSBI)
 
 
 ## Team 4
-Ayanes Arapioannou
+Dakota Wells (Team Lead)
 
-Dakota Wells
+Ayanes Arapioannou
 
 Robert Palmer
 
